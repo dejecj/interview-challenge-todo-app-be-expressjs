@@ -80,7 +80,7 @@ bun dev
 
 ## Learn More
 ### Back-End Stack
-- [Express.js Documentation](https://nextjs.org/docs)
+- [Express.js Documentation](https://expressjs.com/en/starter/installing.html)
 - [Typescript Documentation](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [Prisma Documentation](https://www.prisma.io/docs/getting-started)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
